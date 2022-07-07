@@ -1,1 +1,1 @@
-# drums
+# I'm happy to share with you my second project with JavaScript. You can see it here: https://yuseinkerdakov.github.io/drums/. I had fun with this project and again, I learned some useful things, while making it, like: how to use timeout, how to play sounds, how to use and what is high priority functions, etc. :) I hope you like it!
